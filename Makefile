@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-g -Wall
+CFLAGS=-g
 SRC=src/main.c
 
 main: $(SRC)

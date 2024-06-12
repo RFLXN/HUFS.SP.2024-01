@@ -67,7 +67,7 @@ If given `--with-contents` (`-c`) options, generated file contains random conten
 * Implementation Explain Video: YES. See below section: "Explain Video."
 
 # Explain Video
-[![video - youtube]()]()
+[![video - youtube](https://i.ytimg.com/vi/KmCL0dPYODU/hqdefault.jpg)](https://youtu.be/KmCL0dPYODU?si=ucZ_6SI8vJUedtik)
 
 # Test Environment
 All build and test runs are running on Apple Macbook Pro M1, MacOS Sonoma (14.4.1)
