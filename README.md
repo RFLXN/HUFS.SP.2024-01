@@ -31,7 +31,7 @@ using like this:
 | --force         | -f      | force overwrite [OPTIONAL]             | none   |
 | --with-contents | -c      | generate with contents [OPTIONAL]      | none   |
 
-If given `--with-contents` (`-c`) options, generated file contains like random contents like this:    
+If given `--with-contents` (`-c`) options, generated file contains random contents like this:    
 ![with-contents](https://raw.githubusercontent.com/RFLXN/HUFS.SP.2024-01/main/img/content.png)
 
 
