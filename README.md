@@ -7,7 +7,7 @@
 using like this:    
 
 1. empty directory before
-![before](https://raw.githubusercontent.com/RFLXN/HUFS.SP.2024-01/main/dimg/before.png)    
+![before](https://raw.githubusercontent.com/RFLXN/HUFS.SP.2024-01/main/img/before.png)    
 
 2. run command
 ```shell
@@ -15,7 +15,7 @@ using like this:
 ```
 
 3. dummy files generated after
-![after](https://raw.githubusercontent.com/RFLXN/HUFS.SP.2024-01/main/dimg/after.png)
+![after](https://raw.githubusercontent.com/RFLXN/HUFS.SP.2024-01/main/img/after.png)
 
 ## Usage
 ```shell
@@ -32,7 +32,7 @@ using like this:
 | --with-contents | -c      | generate with contents [OPTIONAL]      | none   |
 
 If given `--with-contents` (`-c`) options, generated file contains like random contents like this:    
-![with-contents](https://raw.githubusercontent.com/RFLXN/HUFS.SP.2024-01/main/dimg/content.png)
+![with-contents](https://raw.githubusercontent.com/RFLXN/HUFS.SP.2024-01/main/img/content.png)
 
 
 ### Environment Variables
